@@ -1,0 +1,4 @@
+Scenario
+
+1) AWS instance have public IP.
+2) Instance running over the private IP.

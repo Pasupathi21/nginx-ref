@@ -1,0 +1,15 @@
+Windows CMD:
+    i) start nginx
+   ii) nginx -s stop
+  iii) nginx -s reload
+   iv) nginx -v
+
+Ubuntu:
+    i) sudo systemctl start nginx
+   ii) sudo systemctl stop nginx
+  iii) sudo systemctl reload nginx
+   iv) sudo systemctl restart nginx
+    v) sudo systemctl status nginx
+   vi) nginx -v
+
+  
